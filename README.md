@@ -1,5 +1,9 @@
 # SNMPPLUX
-An SNMPv1, v2c and v3 dictionary attack tool. Please see: https://penturalabs.wordpress.com/2016/04/01/snmpplux/
+An SNMPv1, v2c and v3 dictionary attack tool. 
+
+Originally this was developed by be when I was employed at Pentura: https://penturalabs.wordpress.com/2016/04/01/snmpplux/
+
+I have forked the code here in order to complete further development. 
 
 Pentura continually develop new tools and scripts to improve the effectiveness of the team. One such tool called SNMPPLUX is an offshoot of a larger development project (ORR).
 SNMPPLUX is a USM compliant SNMPv1, SNMPv2c and SNMPv3 authentication scanner powered by pysnmp, re, sys, getopt, array, time and multiprocessing python modules.
