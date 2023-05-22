@@ -1,7 +1,7 @@
 # SNMPPLUX
 An SNMPv1, v2c and v3 dictionary attack tool. 
 
-Originally this was developed by be when I was employed at Pentura: https://penturalabs.wordpress.com/2016/04/01/snmpplux/
+Originally this was developed by me when I was employed at Pentura: https://penturalabs.wordpress.com/2016/04/01/snmpplux/
 
 I have forked the code here in order to complete further development. 
 
